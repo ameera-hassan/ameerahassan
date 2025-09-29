@@ -12,4 +12,4 @@ Power BI Overtime Dashboard — combined Python ETL (Jupyter Notebook) with Powe
 Graduate Capstone: Assisted Living Facilities — used Google Colab & Python to analyze demographic and financial data in senior care.
 Upcoming: Health Finance Dashboard — a Power BI solution for healthcare insurers to explore costs, claims, and financial performance.
 
-Skills: Python | SQL | Power BI | Tableau | Data Storytelling
+Skills: Python | SQL | Power BI | Tableau | Data Modeling & Storytelling
