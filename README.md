@@ -1,6 +1,7 @@
 # ameerahassan
 
-Hi! Ameera —e a Master's Graduate in Data Analytics! My work blends the analytical skills I first developed on my path towards my Chemistry Bachelor's where I realized the importance of data management with the heaps of data generated in my lab career. :)
+Hi! Ameera by name, data analyst by profession. 
+My work blends the analytical skills I developed early in my career as a chemist, where I realized the importance of data management with the heaps of data generated in lab.
 I love transforming data into insights that enable real decision-making, and I'm grateful to be able to do just that in my current role as the primary data analyst at a startup CPA firm, where I've helped small businesses in the state of Minnesota go beyond numbers. To spotlight:
 - Reduced overtime by 80%
 - Analyzing turnover trends to guide staffing decisions
