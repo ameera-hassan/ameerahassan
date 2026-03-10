@@ -4,7 +4,6 @@
   <img width="100%" src="https://raw.githubusercontent.com/ameera-hassan/ameerahassan/main/banner.svg"/>
 </a>
 
-<br/>
 
 <img src="https://raw.githubusercontent.com/ameera-hassan/ameerahassan/main/profile.jpg"
      width="140"
