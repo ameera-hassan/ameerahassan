@@ -11,9 +11,7 @@
      alt="Ameera Hassan — Data Analyst"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ameerahassan.my.canva.site-324a5f?style=flat-square&logo=canva&logoColor=white)](https://ameerahassan.my.canva.site/)
-
-<br/><br/>
-
+<br/>
 <img src="https://img.shields.io/badge/Data%20Analyst-Co--founder%20%40%20Hassan.CPA-324a5f?style=flat-square&labelColor=1e3144&color=324a5f"/>
 &nbsp;
 <img src="https://img.shields.io/badge/M.S.%20Data%20Analytics-Eastern%20Michigan%20University-3d5a70?style=flat-square"/>
@@ -25,6 +23,27 @@
 > 🗝️ **Keyholder to Data Insights** — I help empower teams to shape their own success through modern finance, data, and technology with thoughtful data solutions that turn information into action.
 
 ---
+
+## `> background --origin`
+
+Ameera by name, Data Analyst by profession. A pivot from chemistry, where I was often met with the challenge of data generation outpacing data acquisition, analysis, and management. The solution, I was told, lived in programming languages. Python. Today I can confidently say I know exactly what it takes to keep pace: automated workflows and data infrastructure. Even better, I get to apply it where it matters, helping healthcare and nonprofit organizations build automated pipelines, reporting systems, and BI dashboards that give their teams real visibility into their operations. I love transforming data into insights that enable real decisions, and I get to do exactly that every day as Data Analyst and Co-founder at Hassan.CPA.
+
+---
+
+## `> connect`
+
+<div align="center">
+
+*Open to collaborations, conversations about data, and opportunities to turn complexity into clarity.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-324a5f?style=for-the-badge&logo=linkedin&logoColor=F5F0E8)](https://linkedin.com/in/ameerafhassan)
+[![Email](https://img.shields.io/badge/Email-1e3144?style=for-the-badge&logo=gmail&logoColor=F5F0E8)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-324a5f?style=for-the-badge&logo=googlechrome&logoColor=F5F0E8)](https://your-portfolio-url.com)
+
+</div>
+
 
 ## `> impact --highlight`
 
@@ -76,34 +95,12 @@ Building a Power BI solution for healthcare insurers to explore costs, claims, a
 </div>
 
 ```
-Languages & Querying  ██████████████████░░  Python · SQL
-Visualization         ████████████████████  Power BI · Tableau
-Modeling & Forecasting██████████████░░░░░░  Regression · Time Series
-Data Engineering      █████████████░░░░░░░  ETL · Pipelines · Automation
-Domain Knowledge      ████████████████░░░░  Finance · Healthcare · Lab Science
+Languages & Querying:  Python · SQL
+Visualization:  Power BI · Tableau
+Modeling & Forecasting:  Regression · Time Series
+Data Engineering:  ETL · Pipelines · Automation
+Domain Knowledge:  Healthcare · Finance · Analytical Chemistry
 ```
-
----
-
-## `> background --origin`
-
-Ameera by name, Data Analyst by profession. A pivot from chemistry, where I was often met with the challenge of data generation outpacing data acquisition, analysis, and management. The solution, I was told, lived in programming languages. Python. Today I can confidently say I know exactly what it takes to keep pace: automated workflows and data infrastructure. Even better, I get to apply it where it matters, helping healthcare and nonprofit organizations build automated pipelines, reporting systems, and BI dashboards that give their teams real visibility into their operations. I love transforming data into insights that enable real decisions, and I get to do exactly that every day as Data Analyst and Co-founder at Hassan.CPA.
-
----
-
-## `> connect`
-
-<div align="center">
-
-*Open to collaborations, conversations about data, and opportunities to turn complexity into clarity.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-324a5f?style=for-the-badge&logo=linkedin&logoColor=F5F0E8)](https://linkedin.com/in/ameerafhassan)
-[![Email](https://img.shields.io/badge/Email-1e3144?style=for-the-badge&logo=gmail&logoColor=F5F0E8)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-324a5f?style=for-the-badge&logo=googlechrome&logoColor=F5F0E8)](https://your-portfolio-url.com)
-
-</div>
 
 ---
 
