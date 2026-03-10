@@ -8,6 +8,20 @@
   </defs>
   <rect width="1200" height="180" fill="url(#bg)"/>
   <path d="M0,140 C200,100 400,160 600,130 C800,100 1000,150 1200,120 L1200,180 L0,180 Z" fill="#253545" opacity="0.4"/>
-  <text x="600" y="90" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="#F5F0E8" text-anchor="middle">Ameera Hassan</text>
-  <text x="600" y="130" font-family="Georgia, serif" font-size="16" fill="#C8DFE3" text-anchor="middle">Keyholder to Data Insights | Healthcare and Nonprofit Analytics</text>
+  <text x="600" y="75" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="#F5F0E8" text-anchor="middle">Ameera Hassan</text>
+  <text x="600" y="110" font-family="Georgia, serif" font-size="16" fill="#C8DFE3" text-anchor="middle">Keyholder to Data Insights | Healthcare and Nonprofit Analytics</text>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/ameerafhassan">
+    <text x="510" y="148" font-family="Georgia, serif" font-size="13" fill="#C8DFE3" text-anchor="middle">LinkedIn</text>
+  </a>
+  <text x="535" y="148" font-family="Georgia, serif" font-size="13" fill="#4a6d85" text-anchor="middle">|</text>
+  <!-- Email -->
+  <a href="mailto:afmhsn@gmail.com">
+    <text x="600" y="148" font-family="Georgia, serif" font-size="13" fill="#C8DFE3" text-anchor="middle">Email</text>
+  </a>
+  <text x="625" y="148" font-family="Georgia, serif" font-size="13" fill="#4a6d85" text-anchor="middle">|</text>
+  <!-- Portfolio -->
+  <a href="https://ameerahassan.my.canva.site/">
+    <text x="690" y="148" font-family="Georgia, serif" font-size="13" fill="#C8DFE3" text-anchor="middle">Portfolio</text>
+  </a>
 </svg>
