@@ -10,7 +10,7 @@
      your-username/your-username/blob/main/assets/profile.jpg
   Then this image will render automatically on your profile.
 -->
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/profile.jpg"
+<img src="https://raw.githubusercontent.com/ameera-hassan/ameerahassan/assets/profile.jpg"
      width="140"
      alt="Ameera Hassan — Data Analyst"/>
 
@@ -33,7 +33,7 @@ analyst = {
     "name"        : "Ameera Hassan",
     "origin"      : "Analytical Chemist → Healthcare & Financial Data Analyst",
     "focus"       : ["Healthcare Analytics", "Nonprofit Finance", "Revenue Cycle", "Workforce Cost Optimization"],
-    "current_role": "Data Analyst & Co-founder @ Hassan.CPA (Minnesota)",
+    "current_role": "Data Analyst & Co-founder @ Hassan.CPA (Remote, **Minnesota**)",
     "builds"      : "Automated ETL pipelines · Executive dashboards · Financial reporting systems",
     "mission"     : "Modernize finance & data processes for community-focused organizations"
 }
@@ -104,11 +104,13 @@ Domain Knowledge      ████████████████░░░�
 
 ## `> background --origin`
 
-My path into data is anything but typical. As an **analytical chemist**, I was surrounded by instruments, experimental pipelines, and mountains of data — and I became obsessed with the *quality* of that data. That rigor followed me into the business world, where I found that the same discipline that keeps a lab experiment valid is exactly what keeps a company's decisions sound.
 
-Today I'm a **healthcare financial and operational analytics professional** specializing in decision support reporting, revenue cycle analytics, and workforce cost optimization. I work closely with community-focused healthcare and nonprofit organizations to modernize their finance and data processes — designing automated ETL workflows, building scalable BI dashboards, and converting unstructured financial documents into clean, structured data that actually gets used.
+Ameera by name, Data Analyst by profession. 
+A pivot from chemistry, where I was often met with the challenge of data generation outpacing data acquisition, analysis, and management. The solution, I was told, lived in programming languages. Python. 
+Today I can confidently say I know exactly what it takes to keep pace: automated workflows and data infrastructure. 
+Even better, I get to apply it where it matters, helping healthcare and nonprofit organizations as a **healthcare financial and operational analytics professional** specializing in decision support reporting, revenue cycle analytics, and workforce cost optimization. 
+I'm passionate about working with community-focused healthcare and nonprofit organizations to modernize their finance and data processes, enable real decisions, and I get to do exactly that every day as Data Analyst and Co-founder at Hassan.CPA.
 
-I'm passionate about improving operational transparency, reducing manual reporting burden, and building analytics infrastructure that grows with the organizations I serve.
 
 ---
 
@@ -120,8 +122,8 @@ I'm passionate about improving operational transparency, reducing manual reporti
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D5F6B?style=for-the-badge&logo=linkedin&logoColor=F5F0E8)](https://linkedin.com/in/ameera-hassan)
-[![Email](https://img.shields.io/badge/Email-1a3f47?style=for-the-badge&logo=gmail&logoColor=F5F0E8)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D5F6B?style=for-the-badge&logo=linkedin&logoColor=F5F0E8)](https://linkedin.com/in/ameerafhassan)
+[![Email](https://img.shields.io/badge/Email-1a3f47?style=for-the-badge&logo=gmail&logoColor=F5F0E8)](mailto:afmhsn@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3D7A8A?style=for-the-badge&logo=googlechrome&logoColor=F5F0E8)](https://your-portfolio-url.com)
 
 </div>
