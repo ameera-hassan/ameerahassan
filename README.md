@@ -18,13 +18,13 @@
 </div>
 </div>
 
-## `> keyholder to data insights --about` 
+## `> keyholder to data insights` 
 I help empower teams to shape their own success through modern finance, data, and technology with thoughtful data solutions that turn information into action.
 
 ---
 
 
-## `> background --origin`
+## `> background`
 
 Ameera by name, Data Analyst by profession. A pivot from chemistry, where I was often met with the challenge of data generation outpacing data acquisition, analysis, and management. 
 The solution, I was told, lived in programming languages. 
@@ -47,7 +47,7 @@ Today I can confidently say I know exactly what it takes to keep pace: automated
 ---
 </div>
 
-## `> impact --highlight`
+## `> impact`
 
 At **Hassan.CPA**, I specialize in healthcare and nonprofit financial analytics — helping organizations turn operational and financial data into decisions they can act on.
 
@@ -61,7 +61,7 @@ At **Hassan.CPA**, I specialize in healthcare and nonprofit financial analytics 
 
 ---
 
-## `> projects --featured`
+## `> projects`
 
 ### Power BI Overtime Dashboard
 > *Python · Power BI · ETL · Workforce Cost Analytics*
@@ -84,7 +84,7 @@ Building a Power BI solution for healthcare insurers to explore costs, claims, a
 
 ---
 
-## `> skills --stack`
+## `> skills`
 
 <div align="center">
 
