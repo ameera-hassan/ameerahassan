@@ -32,6 +32,9 @@ Ameera by name, Data Analyst by profession. A pivot from chemistry, where I was 
 ## `> connect`
 
 <div align="center">
+*Open to collaborations, discoveries, and data opportunities!*
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-324a5f?style=for-the-badge&logo=linkedin&logoColor=F5F0E8)](https://linkedin.com/in/ameerafhassan)
 [![Email](https://img.shields.io/badge/Email-1e3144?style=for-the-badge&logo=gmail&logoColor=F5F0E8)](mailto:afmhsn@gmail.com)
