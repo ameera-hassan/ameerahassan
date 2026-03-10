@@ -3,12 +3,11 @@
 <a href="https://ameerahassan.my.canva.site/">
   <img width="100%" src="https://raw.githubusercontent.com/ameera-hassan/ameerahassan/main/banner.svg"/>
 </a>
-
+</br>
 
 <img src="https://raw.githubusercontent.com/ameera-hassan/ameerahassan/main/profile.jpg"
      width="140"
      alt="Ameera Hassan — Data Analyst"/>
-
 
 <img src="https://img.shields.io/badge/Data%20Analyst-Co--founder%20%40%20Hassan.CPA-324a5f?style=flat-square&labelColor=1e3144&color=324a5f"/>
 &nbsp;
