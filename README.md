@@ -11,11 +11,7 @@
      width="140"
      alt="Ameera Hassan — Data Analyst"/>
 
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-324a5f?style=for-the-badge&logo=linkedin&logoColor=F5F0E8)](https://linkedin.com/in/ameerafhassan)
-[![Email](https://img.shields.io/badge/Email-1e3144?style=for-the-badge&logo=gmail&logoColor=F5F0E8)](mailto:afmhsn@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3d5a70?style=for-the-badge&logo=googlechrome&logoColor=F5F0E8)](https://ameerahassan.my.canva.site/)
+<br/>
 
 <img src="https://img.shields.io/badge/Data%20Analyst-Co--founder%20%40%20Hassan.CPA-324a5f?style=flat-square&labelColor=1e3144&color=324a5f"/>
 &nbsp;
