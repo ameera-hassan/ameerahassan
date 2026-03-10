@@ -1,15 +1,133 @@
-# ameerahassan
+<div align="center">
 
-Hi! Ameera by name, data analyst by profession. 
-Sensibilities for data accuracy, integrity and management  analytical chemist with the, where I realized the importance of data management with the heaps of data generated in lab.
-I love transforming data into insights that enable real decision-making, and I'm grateful to be able to do just that in my current role as the primary data analyst at a startup CPA firm, where I've helped small businesses in the state of Minnesota go beyond numbers. To spotlight:
-- Reduced overtime by 20%
-- Analyzing turnover trends to guide staffing decisions
-- Helped automate processes by leveraging AI tools 
+<!-- Header Banner — teal/slate palette matching portfolio -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D5F6B,3D7A8A,4E9BAD&height=180&section=header&text=Ameera+Hassan&fontSize=52&fontColor=F5F0E8&fontAlignY=40&desc=Keyholder%20to%20Data%20Insights%20%7C%20Healthcare%20%26%20Nonprofit%20Analytics&descSize=15&descAlignY=65&descColor=C8DFE3"/>
 
-Featured Projects
-Power BI Overtime Dashboard — combined Python ETL with Power BI to track and visualize overtime trends.
-Graduate Capstone: Assisted Living Facility . Analyzed demographic and financial data in Assosted Living Facilities.
-Upcoming: Health Finance Dashboard — a Power BI solution for healthcare insurers to explore costs, claims, and financial performance.
+<br/>
 
-Skills: Python | SQL | Power BI | Tableau | Predictive Modeling & Forecasting
+<!-- 
+  📌 SETUP NOTE: Upload your photo to your GitHub repo at:
+     your-username/your-username/blob/main/assets/profile.jpg
+  Then this image will render automatically on your profile.
+-->
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/profile.jpg"
+     width="140"
+     alt="Ameera Hassan — Data Analyst"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Data%20Analyst-Co--founder%20%40%20Hassan.CPA-2D5F6B?style=flat-square&labelColor=1a3f47&color=3D7A8A"/>
+&nbsp;
+<img src="https://img.shields.io/badge/M.S.%20Data%20Analytics-Eastern%20Michigan%20University-4E9BAD?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/B.S.%20Chemistry-Western%20Governor's%20University-2D5F6B?style=flat-square"/>
+
+</div>
+
+---
+
+## `> whoami`
+
+```python
+analyst = {
+    "name"        : "Ameera Hassan",
+    "origin"      : "Analytical Chemist → Healthcare & Financial Data Analyst",
+    "focus"       : ["Healthcare Analytics", "Nonprofit Finance", "Revenue Cycle", "Workforce Cost Optimization"],
+    "current_role": "Data Analyst & Co-founder @ Hassan.CPA (Minnesota)",
+    "builds"      : "Automated ETL pipelines · Executive dashboards · Financial reporting systems",
+    "mission"     : "Modernize finance & data processes for community-focused organizations"
+}
+```
+
+> 🗝️ **Keyholder to Data Insights** — I help empower teams to shape their own success through modern finance, data, and technology with thoughtful data solutions that turn information into action.
+
+---
+
+## `> impact --highlight`
+
+At **Hassan.CPA**, I specialize in healthcare and nonprofit financial analytics — helping organizations turn operational and financial data into decisions they can act on.
+
+| 📉 Challenge | 🔍 Approach | ✅ Outcome |
+|---|---|---|
+| Runaway overtime costs | Python ETL + Power BI workforce dashboard | **20% reduction in overtime** |
+| Unstructured payroll & timesheet data | Automated ETL pipelines → workforce cost analytics | Scalable, real-time labor cost visibility |
+| Manual remittance processing | Converted unstructured docs → structured datasets | Enabled revenue-cycle & variance reporting |
+| Unclear staffing patterns | Turnover trend analysis | Guided strategic staffing decisions |
+| Manual reporting workload | AI-assisted process automation | Freed analyst time for higher-value work |
+
+---
+
+## `> projects --featured`
+
+### 📊 Power BI Overtime Dashboard
+> *Python · Power BI · ETL · Workforce Cost Analytics*
+
+Designed an automated ETL pipeline that transforms raw payroll and timesheet data into a live Power BI dashboard tracking labor costs, overtime exposure, and operational performance trends. The analytics behind a **20% reduction in overtime** — built to give decision-makers clarity without waiting on manual reports.
+
+---
+
+### 🏠 Graduate Capstone: Assisted Living Facility Analysis
+> *Demographic Analysis · Financial Data · Python*
+
+Analyzed demographic and financial data across assisted living facilities — surfacing patterns in resource allocation, operational costs, and population trends to support planning in healthcare and elder care.
+
+---
+
+### 🏥 Health Finance Dashboard *(In Progress)*
+> *Power BI · Revenue Cycle Analytics · Claims & Cost Reporting*
+
+Building a Power BI solution for healthcare insurers to explore costs, claims, and financial performance. Focused on supporting revenue-cycle analysis, variance reporting, and operational transparency for finance teams navigating complex healthcare data.
+
+---
+
+## `> skills --stack`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-2D5F6B?style=for-the-badge&logo=python&logoColor=C8DFE3)
+![SQL](https://img.shields.io/badge/SQL-1a3f47?style=for-the-badge&logo=postgresql&logoColor=C8DFE3)
+![Power BI](https://img.shields.io/badge/Power%20BI-2D5F6B?style=for-the-badge&logo=powerbi&logoColor=F5F0E8)
+![Tableau](https://img.shields.io/badge/Tableau-3D7A8A?style=for-the-badge&logo=tableau&logoColor=F5F0E8)
+![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-4E9BAD?style=for-the-badge&logo=scikit-learn&logoColor=F5F0E8)
+
+</div>
+
+```
+Languages & Querying  ██████████████████░░  Python · SQL
+Visualization         ████████████████████  Power BI · Tableau
+Modeling & Forecasting██████████████░░░░░░  Regression · Time Series
+Data Engineering      █████████████░░░░░░░  ETL · Pipelines · Automation
+Domain Knowledge      ████████████████░░░░  Finance · Healthcare · Lab Science
+```
+
+---
+
+## `> background --origin`
+
+My path into data is anything but typical. As an **analytical chemist**, I was surrounded by instruments, experimental pipelines, and mountains of data — and I became obsessed with the *quality* of that data. That rigor followed me into the business world, where I found that the same discipline that keeps a lab experiment valid is exactly what keeps a company's decisions sound.
+
+Today I'm a **healthcare financial and operational analytics professional** specializing in decision support reporting, revenue cycle analytics, and workforce cost optimization. I work closely with community-focused healthcare and nonprofit organizations to modernize their finance and data processes — designing automated ETL workflows, building scalable BI dashboards, and converting unstructured financial documents into clean, structured data that actually gets used.
+
+I'm passionate about improving operational transparency, reducing manual reporting burden, and building analytics infrastructure that grows with the organizations I serve.
+
+---
+
+## `> connect`
+
+<div align="center">
+
+*Open to collaborations, conversations about data, and opportunities to turn complexity into clarity.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D5F6B?style=for-the-badge&logo=linkedin&logoColor=F5F0E8)](https://linkedin.com/in/ameera-hassan)
+[![Email](https://img.shields.io/badge/Email-1a3f47?style=for-the-badge&logo=gmail&logoColor=F5F0E8)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3D7A8A?style=for-the-badge&logo=googlechrome&logoColor=F5F0E8)](https://your-portfolio-url.com)
+
+</div>
+
+---
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4E9BAD,3D7A8A,2D5F6B&height=80&section=footer"/>
+</div>
