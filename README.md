@@ -45,7 +45,7 @@ Today I can confidently say I know exactly what it takes to keep pace: automated
 [![Portfolio](https://img.shields.io/badge/Portfolio-324a5f?style=for-the-badge&logo=googlechrome&logoColor=F5F0E8)](https://ameerahassan.my.canva.site/)
 
 ---
-
+</div>
 
 ## `> impact --highlight`
 
