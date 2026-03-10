@@ -1,26 +1,23 @@
 <div align="center">
 
-<!-- Header Banner — teal/slate palette matching portfolio -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D5F6B,3D7A8A,4E9BAD&height=180&section=header&text=Ameera+Hassan&fontSize=52&fontColor=F5F0E8&fontAlignY=40&desc=Keyholder%20to%20Data%20Insights%20%7C%20Healthcare%20%26%20Nonprofit%20Analytics&descSize=15&descAlignY=65&descColor=C8DFE3"/>
+<!-- Header Banner — palette matching portfolio -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=324a5f,3d5a70,4a6d85&height=180&section=header&text=Ameera+Hassan&fontSize=52&fontColor=F5F0E8&fontAlignY=40&desc=Keyholder%20to%20Data%20Insights%20%7C%20Healthcare%20%26%20Nonprofit%20Analytics&descSize=15&descAlignY=65&descColor=C8DFE3"/>
 
 <br/>
 
-<!-- 
-  📌 SETUP NOTE: Upload your photo to your GitHub repo at:
-     your-username/your-username/blob/main/assets/profile.jpg
-  Then this image will render automatically on your profile.
--->
-<img src="https://raw.githubusercontent.com/ameera-hassan/ameerahassan/main/profile.jpg"
+<img src="https://raw.githubusercontent.com/ameera-hassan/ameerahassan/58d0681f206ece71c3be9b0f3d535c7aff52049f/profile.jpg"
      width="140"
      alt="Ameera Hassan — Data Analyst"/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ameerahassan.my.canva.site-324a5f?style=flat-square&logo=canva&logoColor=white)](https://ameerahassan.my.canva.site/)
+
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Data%20Analyst-Co--founder%20%40%20Hassan.CPA-2D5F6B?style=flat-square&labelColor=1a3f47&color=3D7A8A"/>
+<img src="https://img.shields.io/badge/Data%20Analyst-Co--founder%20%40%20Hassan.CPA-324a5f?style=flat-square&labelColor=1e3144&color=324a5f"/>
 &nbsp;
-<img src="https://img.shields.io/badge/M.S.%20Data%20Analytics-Eastern%20Michigan%20University-4E9BAD?style=flat-square"/>
+<img src="https://img.shields.io/badge/M.S.%20Data%20Analytics-Eastern%20Michigan%20University-3d5a70?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/B.S.%20Chemistry-Western%20Governor's%20University-2D5F6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/B.S.%20Chemistry-Western%20Governor%27s%20University-324a5f?style=flat-square"/>
 
 </div>
 
@@ -33,7 +30,7 @@ analyst = {
     "name"        : "Ameera Hassan",
     "origin"      : "Analytical Chemist → Healthcare & Financial Data Analyst",
     "focus"       : ["Healthcare Analytics", "Nonprofit Finance", "Revenue Cycle", "Workforce Cost Optimization"],
-    "current_role": "Data Analyst & Co-founder @ Hassan.CPA (Remote  · Minnesota)",
+    "current_role": "Data Analyst & Co-founder @ Hassan.CPA (Minnesota)",
     "builds"      : "Automated ETL pipelines · Executive dashboards · Financial reporting systems",
     "mission"     : "Modernize finance & data processes for community-focused organizations"
 }
@@ -84,11 +81,11 @@ Building a Power BI solution for healthcare insurers to explore costs, claims, a
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-2D5F6B?style=for-the-badge&logo=python&logoColor=C8DFE3)
-![SQL](https://img.shields.io/badge/SQL-1a3f47?style=for-the-badge&logo=postgresql&logoColor=C8DFE3)
-![Power BI](https://img.shields.io/badge/Power%20BI-2D5F6B?style=for-the-badge&logo=powerbi&logoColor=F5F0E8)
-![Tableau](https://img.shields.io/badge/Tableau-3D7A8A?style=for-the-badge&logo=tableau&logoColor=F5F0E8)
-![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-4E9BAD?style=for-the-badge&logo=scikit-learn&logoColor=F5F0E8)
+![Python](https://img.shields.io/badge/Python-324a5f?style=for-the-badge&logo=python&logoColor=C8DFE3)
+![SQL](https://img.shields.io/badge/SQL-1e3144?style=for-the-badge&logo=postgresql&logoColor=C8DFE3)
+![Power BI](https://img.shields.io/badge/Power%20BI-324a5f?style=for-the-badge&logo=powerbi&logoColor=F5F0E8)
+![Tableau](https://img.shields.io/badge/Tableau-324a5f?style=for-the-badge&logo=tableau&logoColor=F5F0E8)
+![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-3d5a70?style=for-the-badge&logo=scikit-learn&logoColor=F5F0E8)
 
 </div>
 
@@ -104,13 +101,7 @@ Domain Knowledge      ████████████████░░░�
 
 ## `> background --origin`
 
-
-Ameera by name, Data Analyst by profession. 
-A pivot from chemistry, where I was often met with the challenge of data generation outpacing data acquisition, analysis, and management. The solution, I was told, lived in programming languages. Python. 
-Today I can confidently say I know exactly what it takes to keep pace: automated workflows and data infrastructure. 
-Even better, I get to apply it where it matters, helping healthcare and nonprofit organizations as a **healthcare financial and operational analytics professional** specializing in decision support reporting, revenue cycle analytics, and workforce cost optimization. 
-I'm passionate about working with community-focused healthcare and nonprofit organizations to modernize their finance and data processes, enable real decisions, and I get to do exactly that every day as Data Analyst and Co-founder at Hassan.CPA.
-
+Ameera by name, Data Analyst by profession. A pivot from chemistry, where I was often met with the challenge of data generation outpacing data acquisition, analysis, and management. The solution, I was told, lived in programming languages. Python. Today I can confidently say I know exactly what it takes to keep pace: automated workflows and data infrastructure. Even better, I get to apply it where it matters, helping healthcare and nonprofit organizations build automated pipelines, reporting systems, and BI dashboards that give their teams real visibility into their operations. I love transforming data into insights that enable real decisions, and I get to do exactly that every day as Data Analyst and Co-founder at Hassan.CPA.
 
 ---
 
@@ -122,14 +113,14 @@ I'm passionate about working with community-focused healthcare and nonprofit org
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D5F6B?style=for-the-badge&logo=linkedin&logoColor=F5F0E8)](https://linkedin.com/in/ameerafhassan)
-[![Email](https://img.shields.io/badge/Email-1a3f47?style=for-the-badge&logo=gmail&logoColor=F5F0E8)](mailto:afmhsn@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3D7A8A?style=for-the-badge&logo=googlechrome&logoColor=F5F0E8)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-324a5f?style=for-the-badge&logo=linkedin&logoColor=F5F0E8)](https://linkedin.com/in/ameerafhassan)
+[![Email](https://img.shields.io/badge/Email-1e3144?style=for-the-badge&logo=gmail&logoColor=F5F0E8)](mailto:afmhsn@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-324a5f?style=for-the-badge&logo=googlechrome&logoColor=F5F0E8)](https://ameerahassan.my.canva.site/)
 
 </div>
 
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4E9BAD,3D7A8A,2D5F6B&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3d5a70,324a5f,324a5f&height=80&section=footer"/>
 </div>
