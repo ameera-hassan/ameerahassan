@@ -33,7 +33,7 @@ analyst = {
     "name"        : "Ameera Hassan",
     "origin"      : "Analytical Chemist → Healthcare & Financial Data Analyst",
     "focus"       : ["Healthcare Analytics", "Nonprofit Finance", "Revenue Cycle", "Workforce Cost Optimization"],
-    "current_role": "Data Analyst & Co-founder @ Hassan.CPA (Remote, **Minnesota**)",
+    "current_role": "Data Analyst & Co-founder @ Hassan.CPA (Remote  · Minnesota)",
     "builds"      : "Automated ETL pipelines · Executive dashboards · Financial reporting systems",
     "mission"     : "Modernize finance & data processes for community-focused organizations"
 }
