@@ -5,13 +5,14 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ameera-hassan/ameerahassan/f0c1bffc84374d643e06106f48dfcefdb9303395/profile.jpg"
-     width="150"
+<img src="https://raw.githubusercontent.com/ameera-hassan/ameerahassan/58d0681f206ece71c3be9b0f3d535c7aff52049f/profile.jpg"
+     width="140"
      alt="Ameera Hassan — Data Analyst"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ameerahassan.my.canva.site-324a5f?style=flat-square&logo=canva&logoColor=white)](https://ameerahassan.my.canva.site/)
 
 <br/><br/>
+
 <img src="https://img.shields.io/badge/Data%20Analyst-Co--founder%20%40%20Hassan.CPA-324a5f?style=flat-square&labelColor=1e3144&color=324a5f"/>
 &nbsp;
 <img src="https://img.shields.io/badge/M.S.%20Data%20Analytics-Eastern%20Michigan%20University-3d5a70?style=flat-square"/>
@@ -43,11 +44,11 @@ analyst = {
 
 At **Hassan.CPA**, I specialize in healthcare and nonprofit financial analytics — helping organizations turn operational and financial data into decisions they can act on.
 
-| Challenge | Approach | Outcome |
+| 📉 Challenge | 🔍 Approach | ✅ Outcome |
 |---|---|---|
-| Unidenitfied overtime costs | Python ETL + Power BI workforce dashboard | 20% reduction in overtime |
-| Unstructured payroll + timesheet data | Automated ETL pipelines to workforce cost analytics | Scalable, real-time labor cost visibility |
-| Manual remittance processing | Converted unstructured docs to structured datasets | Enabled revenue-cycle + variance reporting |
+| Runaway overtime costs | Python ETL + Power BI workforce dashboard | **20% reduction in overtime** |
+| Unstructured payroll & timesheet data | Automated ETL pipelines → workforce cost analytics | Scalable, real-time labor cost visibility |
+| Manual remittance processing | Converted unstructured docs → structured datasets | Enabled revenue-cycle & variance reporting |
 | Unclear staffing patterns | Turnover trend analysis | Guided strategic staffing decisions |
 | Manual reporting workload | AI-assisted process automation | Freed analyst time for higher-value work |
 
@@ -89,7 +90,7 @@ Building a Power BI solution for healthcare insurers to explore costs, claims, a
 </div>
 
 ```
-Languages & Querying  ██████████████████░░░  Python · SQL
+Languages & Querying  ██████████████████░░  Python · SQL
 Visualization         ████████████████████  Power BI · Tableau
 Modeling & Forecasting██████████████░░░░░░  Regression · Time Series
 Data Engineering      █████████████░░░░░░░  ETL · Pipelines · Automation
@@ -112,9 +113,9 @@ Ameera by name, Data Analyst by profession. A pivot from chemistry, where I was 
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-324a5f?style=for-the-badge&logo=linkedin&logoColor=F5F0E8)](https://linkedin.com/in/ameerafhassan)
-[![Email](https://img.shields.io/badge/Email-1e3144?style=for-the-badge&logo=gmail&logoColor=F5F0E8)](mailto:afmhsn@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-324a5f?style=for-the-badge&logo=googlechrome&logoColor=F5F0E8)](https://ameerahassan.my.canva.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-324a5f?style=for-the-badge&logo=linkedin&logoColor=F5F0E8)](https://linkedin.com/in/ameera-hassan)
+[![Email](https://img.shields.io/badge/Email-1e3144?style=for-the-badge&logo=gmail&logoColor=F5F0E8)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-324a5f?style=for-the-badge&logo=googlechrome&logoColor=F5F0E8)](https://your-portfolio-url.com)
 
 </div>
 
