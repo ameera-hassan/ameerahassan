@@ -22,21 +22,6 @@
 
 </div>
 
----
-
-## `> whoami`
-
-```python
-analyst = {
-    "name"        : "Ameera Hassan",
-    "origin"      : "Analytical Chemist → Healthcare & Financial Data Analyst",
-    "focus"       : ["Healthcare Analytics", "Nonprofit Finance", "Revenue Cycle", "Workforce Cost Optimization"],
-    "current_role": "Data Analyst & Co-founder @ Hassan.CPA (Minnesota)",
-    "builds"      : "Automated ETL pipelines · Executive dashboards · Financial reporting systems",
-    "mission"     : "Modernize finance & data processes for community-focused organizations"
-}
-```
-
 > 🗝️ **Keyholder to Data Insights** — I help empower teams to shape their own success through modern finance, data, and technology with thoughtful data solutions that turn information into action.
 
 ---
