@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/M.S.%20Data%20Analytics-Eastern%20Michigan%20University-3d5a70?style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/badge/B.S.%20Chemistry-Western%20Governor%27s%20University-324a5f?style=flat-square"/>
-
+</br>
 </div>
 </div>
 
