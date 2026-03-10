@@ -3,7 +3,6 @@
 <!-- Header Banner — palette matching portfolio -->
 <img width="100%" src="https://raw.githubusercontent.com/ameera-hassan/ameerahassan/main/banner.svg"/>
 
-<br/>
 
 <img src="https://raw.githubusercontent.com/ameera-hassan/ameerahassan/main/profile.jpg?raw=true"
      width="140"
