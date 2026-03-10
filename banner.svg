@@ -1,0 +1,13 @@
+<svg width="1200" height="180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#324a5f"/>
+      <stop offset="50%" style="stop-color:#3d5a70"/>
+      <stop offset="100%" style="stop-color:#4a6d85"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" fill="url(#bg)"/>
+  <path d="M0,140 C200,100 400,160 600,130 C800,100 1000,150 1200,120 L1200,180 L0,180 Z" fill="#253545" opacity="0.4"/>
+  <text x="600" y="90" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="#F5F0E8" text-anchor="middle">Ameera Hassan</text>
+  <text x="600" y="130" font-family="Georgia, serif" font-size="16" fill="#C8DFE3" text-anchor="middle">Keyholder to Data Insights | Healthcare and Nonprofit Analytics</text>
+</svg>
