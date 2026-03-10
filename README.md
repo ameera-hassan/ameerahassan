@@ -19,7 +19,7 @@
 </div>
 
 ## `> keyholder to data insights` 
-I help empower non-profit community-based organizations shape their own success through modern finance, data, and technology with effective data solutions that catalyze transformational growth.
+I help empower non-profit community-based organizations to shape their own success through modern finance, data, and technology solutions that catalyze transformational growth.
 
 ---
 
