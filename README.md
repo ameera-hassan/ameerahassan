@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner — palette matching portfolio -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=324a5f,3d5a70,4a6d85&height=180&section=header&text=Ameera+Hassan&fontSize=52&fontColor=F5F0E8&fontAlignY=40&desc=Keyholder%20to%20Data%20Insights%20%7C%20Healthcare%20and%20Nonprofit%20Analytics&descSize=15&descAlignY=65&descColor=C8DFE3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=324a5f,3d5a70,4a6d85&height=180&section=header&text=Ameera%20Hassan&fontSize=52&fontColor=F5F0E8&fontAlignY=40&desc=Keyholder%20to%20Data%20Insights%20%7C%20Healthcare%20and%20Nonprofit%20Analytics&descSize=15&descAlignY=65&descColor=C8DFE3"/>
 
 <br/>
 
