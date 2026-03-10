@@ -23,6 +23,16 @@ I help empower teams to shape their own success through modern finance, data, an
 
 ---
 
+
+## `> background --origin`
+
+Ameera by name, Data Analyst by profession. A pivot from chemistry, where I was often met with the challenge of data generation outpacing data acquisition, analysis, and management. 
+The solution, I was told, lived in programming languages. 
+Python. 
+Today I can confidently say I know exactly what it takes to keep pace: automated workflows and data infrastructure. Even better, I get to apply it where it matters, helping healthcare and nonprofit organizations build automated pipelines, reporting systems, and BI dashboards that give their teams real visibility into their operations. I love transforming data into insights that enable real decisions, and I get to do exactly that every day as Data Analyst and Co-founder at Hassan.CPA.
+
+---
+
 ## `> connect`
 
 <div align="center">
@@ -35,18 +45,6 @@ I help empower teams to shape their own success through modern finance, data, an
 [![Portfolio](https://img.shields.io/badge/Portfolio-324a5f?style=for-the-badge&logo=googlechrome&logoColor=F5F0E8)](https://ameerahassan.my.canva.site/)
 
 ---
-</div>
-
-
-## `> background --origin`
-
-Ameera by name, Data Analyst by profession. A pivot from chemistry, where I was often met with the challenge of data generation outpacing data acquisition, analysis, and management. 
-The solution, I was told, lived in programming languages. 
-Python. 
-Today I can confidently say I know exactly what it takes to keep pace: automated workflows and data infrastructure. Even better, I get to apply it where it matters, helping healthcare and nonprofit organizations build automated pipelines, reporting systems, and BI dashboards that give their teams real visibility into their operations. I love transforming data into insights that enable real decisions, and I get to do exactly that every day as Data Analyst and Co-founder at Hassan.CPA.
-
----
-
 
 
 ## `> impact --highlight`
