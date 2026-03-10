@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner — palette matching portfolio -->
-<img width="100%" height="120" src="https://placehold.co/1200x120/324a5f/F5F0E8?text=Ameera+Hassan&font=georgia"/>
+<img width="100%" src="https://raw.githubusercontent.com/ameera-hassan/ameerahassan/main/banner.svg"/>
 
 
 <br/>
