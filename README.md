@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Header Banner — palette matching portfolio -->
-<img width="100%" src="https://readme-typing-svg.demolab.com/api?font=Georgia&size=40&duration=1&pause=1000&color=F5F0E8&background=324a5f&center=true&vCenter=true&width=1200&height=120&lines=Ameera+Hassan"/>
+<img width="100%" src="https://via.placeholder.com/1200x120/324a5f/F5F0E8?text=Ameera+Hassan"/>
+
 <br/>
 
 <img src="https://raw.githubusercontent.com/ameera-hassan/ameerahassan/main/profile.jpg?raw=true"
