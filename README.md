@@ -18,7 +18,7 @@
 </div>
 </div>
 
-## `> 🗝️ Keyholder to Data Insights` 
+## `> Keyholder to Data Insights` 
 I help empower teams to shape their own success through modern finance, data, and technology with thoughtful data solutions that turn information into action.
 
 ---
@@ -53,7 +53,7 @@ Today I can confidently say I know exactly what it takes to keep pace: automated
 
 At **Hassan.CPA**, I specialize in healthcare and nonprofit financial analytics — helping organizations turn operational and financial data into decisions they can act on.
 
-| 📉 Challenge | 🔍 Approach | ✅ Outcome |
+| Challenge | Approach | Outcome |
 |---|---|---|
 | Runaway overtime costs | Python ETL + Power BI workforce dashboard | **20% reduction in overtime** |
 | Unstructured payroll & timesheet data | Automated ETL pipelines → workforce cost analytics | Scalable, real-time labor cost visibility |
@@ -65,21 +65,21 @@ At **Hassan.CPA**, I specialize in healthcare and nonprofit financial analytics 
 
 ## `> projects --featured`
 
-### 📊 Power BI Overtime Dashboard
+### Power BI Overtime Dashboard
 > *Python · Power BI · ETL · Workforce Cost Analytics*
 
 Designed an automated ETL pipeline that transforms raw payroll and timesheet data into a live Power BI dashboard tracking labor costs, overtime exposure, and operational performance trends. The analytics behind a **20% reduction in overtime** — built to give decision-makers clarity without waiting on manual reports.
 
 ---
 
-### 🏠 Graduate Capstone: Assisted Living Facility Analysis
+### Graduate Capstone: Assisted Living Facility Analysis
 > *Demographic Analysis · Financial Data · Python*
 
 Analyzed demographic and financial data across assisted living facilities — surfacing patterns in resource allocation, operational costs, and population trends to support planning in healthcare and elder care.
 
 ---
 
-### 🏥 Health Finance Dashboard *(In Progress)*
+### Health Finance Dashboard *(In Progress)*
 > *Power BI · Revenue Cycle Analytics · Claims & Cost Reporting*
 
 Building a Power BI solution for healthcare insurers to explore costs, claims, and financial performance. Focused on supporting revenue-cycle analysis, variance reporting, and operational transparency for finance teams navigating complex healthcare data.
