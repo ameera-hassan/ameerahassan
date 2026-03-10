@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/B.S.%20Chemistry-Western%20Governor%27s%20University-324a5f?style=flat-square"/>
 
 </div>
-
+</div>
 
 > 🗝️ **Keyholder to Data Insights** — I help empower teams to shape their own success through modern finance, data, and technology with thoughtful data solutions that turn information into action.
 
