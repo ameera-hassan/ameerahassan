@@ -66,14 +66,14 @@ At **Hassan.CPA**, I specialize in healthcare and nonprofit financial analytics 
 ### Power BI Overtime Dashboard
 > *Python · Power BI · ETL · Workforce Cost Analytics*
 
-Designed an automated ETL pipeline that transforms raw payroll and timesheet data into a live Power BI dashboard tracking labor costs, overtime exposure, and operational performance trends. The analytics behind a **20% reduction in overtime** — built to give decision-makers clarity without waiting on manual reports.
+Designed an automated ETL pipeline that transforms raw payroll and timesheet data into a live Power BI dashboard tracking labor costs, overtime exposure, and operational performance trends. Resukting in a **20% reduction in overtime** after initial report.
 
 ---
 
 ### Graduate Capstone: Assisted Living Facility Analysis
 > *Demographic Analysis · Financial Data · Python*
 
-Analyzed demographic and financial data across assisted living facilities — surfacing patterns in resource allocation, operational costs, and population trends to support planning in healthcare and elder care.
+Analyzed demographic and financial data across assisted living facilities, analyzing patterns in resource allocation, operational costs, and population trends to support planning in healthcare and elder care.
 
 ---
 
