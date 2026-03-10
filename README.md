@@ -32,6 +32,7 @@ Ameera by name, Data Analyst by profession. A pivot from chemistry, where I was 
 ## `> connect`
 
 <div align="center">
+  
 *Open to collaborations, discoveries, and data opportunities!*
 
 <br/>
