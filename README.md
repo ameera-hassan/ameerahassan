@@ -34,9 +34,9 @@ I help empower teams to shape their own success through modern finance, data, an
 [![Email](https://img.shields.io/badge/Email-1e3144?style=for-the-badge&logo=gmail&logoColor=F5F0E8)](mailto:afmhsn@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-324a5f?style=for-the-badge&logo=googlechrome&logoColor=F5F0E8)](https://ameerahassan.my.canva.site/)
 
-
-</div>
 ---
+</div>
+
 
 ## `> background --origin`
 
