@@ -18,7 +18,7 @@
 </div>
 </div>
 
-## `> Keyholder to Data Insights` 
+## `> keyholder to data insights` 
 I help empower teams to shape their own success through modern finance, data, and technology with thoughtful data solutions that turn information into action.
 
 ---
