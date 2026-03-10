@@ -44,10 +44,10 @@ analyst = {
 
 At **Hassan.CPA**, I specialize in healthcare and nonprofit financial analytics — helping organizations turn operational and financial data into decisions they can act on.
 
-| 📉 Challenge | 🔍 Approach | ✅ Outcome |
+| Challenge | Approach | Outcome |
 |---|---|---|
-| Runaway overtime costs | Python ETL + Power BI workforce dashboard | **20% reduction in overtime** |
-| Unstructured payroll & timesheet data | Automated ETL pipelines → workforce cost analytics | Scalable, real-time labor cost visibility |
+| Excess overtime costs | Python ETL + Power BI workforce dashboard | **20% reduction in overtime** |
+| Unstructured payroll and timesheet data | Automated ETL pipelines → workforce cost analytics | Scalable, real-time labor cost visibility |
 | Manual remittance processing | Converted unstructured docs → structured datasets | Enabled revenue-cycle & variance reporting |
 | Unclear staffing patterns | Turnover trend analysis | Guided strategic staffing decisions |
 | Manual reporting workload | AI-assisted process automation | Freed analyst time for higher-value work |
