@@ -10,7 +10,7 @@
      your-username/your-username/blob/main/assets/profile.jpg
   Then this image will render automatically on your profile.
 -->
-<img src="https://raw.githubusercontent.com/ameera-hassan/ameerahassan/assets/profile.jpg"
+<img src="https://raw.githubusercontent.com/ameera-hassan/ameerahassan/main/profile.jpg"
      width="140"
      alt="Ameera Hassan — Data Analyst"/>
 
