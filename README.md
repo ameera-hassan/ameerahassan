@@ -22,6 +22,8 @@
 
 ---
 
+</div>
+
 <img src="https://img.shields.io/badge/Data%20Analyst-Co--founder%20%40%20Hassan.CPA-324a5f?style=flat-square&labelColor=1e3144&color=324a5f"/>
 &nbsp;
 <img src="https://img.shields.io/badge/M.S.%20Data%20Analytics-Eastern%20Michigan%20University-3d5a70?style=flat-square"/>
@@ -29,6 +31,7 @@
 <img src="https://img.shields.io/badge/B.S.%20Chemistry-Western%20Governor%27s%20University-324a5f?style=flat-square"/>
 
 <br/>
+
 
 </div>
 
