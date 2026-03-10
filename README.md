@@ -102,7 +102,3 @@ Domain Knowledge:  Healthcare · Finance · Analytical Chemistry
 ```
 
 ---
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3d5a70,324a5f,324a5f&height=80&section=footer"/>
-</div>
