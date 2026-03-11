@@ -66,7 +66,7 @@ At **Hassan.CPA**, I specialize in healthcare and nonprofit financial analytics 
 ### Power BI Overtime Dashboard
 > *Python · Power BI · ETL · Workforce Cost Analytics*
 
-Designed an automated ETL pipeline that transforms raw payroll and timesheet data into a live Power BI dashboard tracking labor costs, overtime exposure, and operational performance trends. Resukting in a **20% reduction in overtime** after initial report.
+Designed an automated ETL pipeline that transforms raw payroll and timesheet data into a live Power BI dashboard tracking labor costs, overtime exposure, and operational performance trends. Resulting in a **20% reduction in overtime** after initial report.
 
 ---
 
