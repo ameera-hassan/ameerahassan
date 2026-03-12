@@ -3,84 +3,88 @@
 <a href="https://ameerahassan.my.canva.site/">
   <img width="100%" src="https://raw.githubusercontent.com/ameera-hassan/ameerahassan/main/banner.svg"/>
 </a>
-</br>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/ameera-hassan/ameerahassan/main/profile.jpg"
      width="140"
      alt="Ameera Hassan — Data Analyst"/>
 
-<img src="https://img.shields.io/badge/Data%20Analyst-Co--founder%20%40%20Hassan.CPA-324a5f?style=flat-square&labelColor=1e3144&color=324a5f"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Data%20Analyst-Hassan.CPA-324a5f?style=flat-square&labelColor=1e3144&color=324a5f"/>
 &nbsp;
-<img src="https://img.shields.io/badge/M.S.%20Data%20Analytics-Western%20Governor%27s%20University-3d5a70?style=flat-square"/>
+<img src="https://img.shields.io/badge/CHFP-Healthcare%20Finance%20Professional-3d5a70?style=flat-square&labelColor=1e3144"/>
 &nbsp;
-<img src="https://img.shields.io/badge/B.S.%20Chemistry-Eastern%20Michigan%20University-324a5f?style=flat-square"/>
+<img src="https://img.shields.io/badge/M.S.%20Data%20Analytics-Western%20Governors%20University-324a5f?style=flat-square"/>
 
 </div>
-</div>
-
-## `> keyholder to data insights` 
-I help empower non-profit community-based organizations to shape their own success through modern finance, data, and technology solutions that catalyze transformational growth.
 
 ---
 
+## `> who I am`
 
-## `> background`
+Healthcare data analytics professional at the intersection of **clinical domain knowledge**, **data engineering**, and **business intelligence**. I build automated pipelines and decision-support dashboards that help healthcare and nonprofit organizations see their operations clearly — and act on what they find.
 
-Ameera by name, Data Analyst by profession. A pivot from chemistry, where I was often met with the challenge of data generation outpacing data acquisition, analysis, and management. 
-The solution, I was told, lived in programming languages. 
-Python. 
-Today I can confidently say I know exactly what it takes to keep pace: automated workflows and data infrastructure. Even better, I get to apply it where it matters, helping healthcare and nonprofit organizations build automated pipelines, reporting systems, and BI dashboards that give their teams real visibility into their operations. I love transforming data into insights that enable real decisions, and I get to do exactly that every day as Data Analyst and Co-founder at Hassan.CPA.
+Certified Health Finance Professional (CHFP). MS in Data Analytics. Background in pharmacy, analytical chemistry, and revenue cycle finance. The breadth isn't accidental — it's what makes the data work.
 
 ---
-
-## `> connect`
-
-<div align="center">
-  
-*Open to collaborations, discoveries, and data opportunities!*
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-324a5f?style=for-the-badge&logo=linkedin&logoColor=F5F0E8)](https://linkedin.com/in/ameerafhassan)
-[![Email](https://img.shields.io/badge/Email-1e3144?style=for-the-badge&logo=gmail&logoColor=F5F0E8)](mailto:afmhsn@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-324a5f?style=for-the-badge&logo=googlechrome&logoColor=F5F0E8)](https://ameerahassan.my.canva.site/)
-
----
-</div>
 
 ## `> impact`
 
-At **Hassan.CPA**, I specialize in healthcare and nonprofit financial analytics — helping organizations turn operational and financial data into decisions they can act on.
+Work I've done at **Hassan.CPA**, supporting healthcare and nonprofit clients:
 
 | Challenge | Approach | Outcome |
 |---|---|---|
 | Runaway overtime costs | Python ETL + Power BI workforce dashboard | **20% reduction in overtime** |
-| Unstructured payroll & timesheet data | Automated ETL pipelines → workforce cost analytics | Scalable, real-time labor cost visibility |
-| Manual remittance processing | Converted unstructured docs → structured datasets | Enabled revenue-cycle & variance reporting |
-| Unclear staffing patterns | Turnover trend analysis | Guided strategic staffing decisions |
-| Manual reporting workload | AI-assisted process automation | Freed analyst time for higher-value work |
+| Manual asset reconciliation | Automated data model with version-controlled update logic | Reconciliation time: **4 hours → 5 minutes** |
+| Unstructured payroll & timesheet data | Automated ETL pipelines → workforce cost analytics | Real-time labor cost visibility at scale |
+| Manual remittance processing | Converted unstructured docs → structured relational datasets | Enabled revenue-cycle & variance reporting |
+| Manual reporting workload | 80% reduction in reporting effort through automation | Analysts freed for higher-value work |
 
 ---
 
 ## `> projects`
 
-### Power BI Overtime Dashboard
-> *Python · Power BI · ETL · Workforce Cost Analytics*
+### 🏥 Healthcare Workforce Cost & Utilization Analysis
+> *Python · Power BI · DAX · ETL · Workforce Analytics*
 
-Designed an automated ETL pipeline that transforms raw payroll and timesheet data into a live Power BI dashboard tracking labor costs, overtime exposure, and operational performance trends. Resulting in a **20% reduction in overtime** after initial report.
+**Problem:** Healthcare clients lacked visibility into labor cost overruns until after period close — too late to act.
 
----
+**Built:** An automated Python ETL pipeline that transforms raw payroll and timesheet data into a live Power BI dashboard. Developed custom DAX measures and SVG-based sparkline visuals to surface overtime exposure, staffing risk, and cost variance trends in real time.
 
-### Graduate Capstone: Assisted Living Facility Analysis
-> *Demographic Analysis · Financial Data · Python*
-
-Analyzed demographic and financial data across assisted living facilities, analyzing patterns in resource allocation, operational costs, and population trends to support planning in healthcare and elder care.
+**Outcome:** 20% reduction in overtime costs after initial reporting. Clients can now forecast labor overruns before they happen.
 
 ---
 
-### Health Finance Dashboard *(In Progress)*
+### 📊 Assisted Living Market Analysis *(Graduate Capstone)*
+> *Python · Scikit-learn · Random Forest · Demographic Analysis*
+
+**Problem:** Healthcare expansion decisions are often made without rigorous market saturation analysis, leading to costly misallocations.
+
+**Built:** Random Forest predictive models estimating market saturation risk for assisted living facility expansion. Integrated demographic, census, and facility-level financial data to surface patterns in resource allocation, population trends, and regional demand.
+
+**Outcome:** Produced an actionable risk framework for healthcare facility planning, with model feature importance analysis identifying key demographic drivers of saturation.
+
+---
+
+### 🔄 Customer Retention Analytics
+> *SQL · PostgreSQL · Tableau · ETL*
+
+**Problem:** Leadership lacked clear visibility into churn patterns and user engagement trends, making retention strategy reactive rather than proactive.
+
+**Built:** SQL-based ETL pipelines aggregating user behavior data into a Tableau dashboard tracking churn rates, engagement cohorts, and retention trends over time.
+
+**Outcome:** Enabled data-driven recruitment and retention strategy by surfacing the engagement signals most predictive of churn.
+
+---
+
+### 💡 Health Finance Dashboard *(In Progress)*
 > *Power BI · Revenue Cycle Analytics · Claims & Cost Reporting*
 
-Building a Power BI solution for healthcare insurers to explore costs, claims, and financial performance. Focused on supporting revenue-cycle analysis, variance reporting, and operational transparency for finance teams navigating complex healthcare data.
+Building a Power BI solution for healthcare finance teams to explore costs, claims, and financial performance at the payer and service-line level. Designed to support revenue-cycle variance reporting and operational transparency for organizations navigating complex healthcare billing data.
+
+*PL-300 Power BI Data Analyst certification in progress — expected 2026.*
 
 ---
 
@@ -92,16 +96,29 @@ Building a Power BI solution for healthcare insurers to explore costs, claims, a
 ![SQL](https://img.shields.io/badge/SQL-1e3144?style=for-the-badge&logo=postgresql&logoColor=C8DFE3)
 ![Power BI](https://img.shields.io/badge/Power%20BI-324a5f?style=for-the-badge&logo=powerbi&logoColor=F5F0E8)
 ![Tableau](https://img.shields.io/badge/Tableau-324a5f?style=for-the-badge&logo=tableau&logoColor=F5F0E8)
-![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-3d5a70?style=for-the-badge&logo=scikit-learn&logoColor=F5F0E8)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-3d5a70?style=for-the-badge&logo=scikit-learn&logoColor=F5F0E8)
 
 </div>
 
 ```
-Languages & Querying:  Python · SQL
-Visualization:  Power BI · Tableau
-Modeling & Forecasting:  Regression · Time Series
-Data Engineering:  ETL · Pipelines · Automation
-Domain Knowledge:  Healthcare · Finance · Analytical Chemistry
+Languages & Querying:   Python · SQL (PostgreSQL) · M (Power Query) · DAX
+Visualization:          Power BI · Tableau · SVG Custom Visuals
+Engineering:            ETL Pipelines · Data Modeling · Workflow Automation
+Machine Learning:       Random Forest · Regression · Predictive Modeling
+Domain Knowledge:       Healthcare Finance · Revenue Cycle · Pharmacy · Analytical Chemistry
+Certifications:         CHFP (HFMA, 2026) · PL-300 Power BI (In Progress)
 ```
 
 ---
+
+## `> connect`
+
+<div align="center">
+
+*Open to data analytics roles in healthcare, finance, and mission-driven organizations.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-324a5f?style=for-the-badge&logo=linkedin&logoColor=F5F0E8)](https://linkedin.com/in/ameerafhassan)
+[![Email](https://img.shields.io/badge/Email-1e3144?style=for-the-badge&logo=gmail&logoColor=F5F0E8)](mailto:afmhsn@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-324a5f?style=for-the-badge&logo=googlechrome&logoColor=F5F0E8)](https://ameerahassan.my.canva.site/)
+
+</div>
