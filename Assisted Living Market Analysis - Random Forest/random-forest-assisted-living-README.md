@@ -11,7 +11,9 @@
 Population predictions for the next 20 years -> 
 
 **Ages 65 and older will nearly double**
+
 **Ages 85 and older will increase by over 100%**
+
 This demographic shift will significantly increase the need for assisted living facilities.
 
 Understanding how socioeconomic factors influence our current supply of assisted living facilities is key to addressing future demand and ensuring equitable access to care.
