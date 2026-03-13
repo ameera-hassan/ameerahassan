@@ -89,11 +89,11 @@ Building a Power BI solution for healthcare insurers to explore costs, claims, a
 </div>
 
 ```
-Languages & Querying  ██████████████████░░░  Python · SQL
-Visualization         ████████████████████  Power BI · Tableau
-Modeling & Forecasting██████████████░░░░░░  Regression · Time Series
-Data Engineering      █████████████░░░░░░░  ETL · Pipelines · Automation
-Domain Knowledge      ████████████████░░░░  Finance · Healthcare · Lab Science
+Languages & Querying     :     Python · SQL
+Visualization     :     Power BI · Tableau
+Modeling & Forecasting     :     Regression · Time Series
+Data Engineering     :     ETL · Pipelines · Automation
+Domain Knowledge     :     Finance · Healthcare · Lab Science
 ```
 
 ---
