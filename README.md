@@ -99,10 +99,14 @@ Building a Power BI solution for healthcare providers to explore costs, claims, 
 
 </div>
 
+---
+
+```
 Languages & Querying:  Python · SQL
 Visualization:  Power BI · Tableau
 Modeling & Forecasting:  Random Forest Classification · Regression · Time Series
 Data Engineering:  ETL · Pipelines · Automation
 Domain Knowledge:  Healthcare Finance · Revenue Cycle · Pharmacy Operations · Regulatory Compliance
+```
 
 ---
