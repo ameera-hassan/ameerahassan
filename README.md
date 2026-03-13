@@ -39,7 +39,7 @@ Today I can confidently say I know exactly what it takes to keep pace: automated
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-324a5f?style=for-the-badge&logo=linkedin&logoColor=F5F0E8)](https://linkedin.com/in/ameerafhassan)
 [![Email](https://img.shields.io/badge/Email-1e3144?style=for-the-badge&logo=gmail&logoColor=F5F0E8)](mailto:afmhsn@gmail.com)
-[![Company](https://img.shields.io/badge/Email-1e3144?style=for-the-badge&logo=gmail&logoColor=F5F0E8)](https://hassan.cpa)
+[![Company](https://img.shields.io/badge/Company-1e3144?style=for-the-badge&logo=briefcase&logoColor=F5F0E8)](https://hassan.cpa)
 
 ---
 </div>
