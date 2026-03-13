@@ -44,8 +44,8 @@ Can socioeconomic factors be used to classify Minnesota counties into Low, Mediu
 
 ## Data
 
-- **Population data** — Minnesota 2020 Decennial Demographic Profile, U.S. Census Bureau
-- **Facility data** — Assisted living facility dataset from a peer-reviewed research publication (Stengel et al., 2022), filtered to Minnesota counties
+- **Population data**: Minnesota 2020 Decennial Demographic Profile, U.S. Census Bureau
+- **Facility data**: Assisted living facility dataset from a peer-reviewed research publication (Stengel et al., 2022), filtered to Minnesota counties
 
 **Scope:** Counties with total population > 20,000
 
