@@ -10,8 +10,8 @@
 
 Population predictions for the next 20 years -> 
 ```
-*Ages 65 and older will nearly double*
-*Ages 85 and older will increase by over 100%*
+Ages 65 and older will nearly double
+Ages 85 and older will increase by over 100%
 ```
 This demographic shift will significantly increase the need for assisted living facilities.
 
