@@ -127,8 +127,7 @@ assisted-living-market-analysis/
 
 ---
 
-**Author:** Ameera Hassan · [LinkedIn](https://linkedin.com/in/ameerafhassan) · [Portfolio](https://ameerahassan.my.canva.site/)
-
+**Author:** Ameera Hassan · [LinkedIn](https://linkedin.com/in/ameerafhassan)
 ---
 
 ## References
