@@ -98,12 +98,11 @@ Building a Power BI solution for healthcare providers to explore costs, claims, 
 ![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-3d5a70?style=for-the-badge&logo=scikit-learn&logoColor=F5F0E8)
 
 </div>
-```
+
 Languages & Querying:  Python · SQL
 Visualization:  Power BI · Tableau
 Modeling & Forecasting:  Random Forest Classification · Regression · Time Series
 Data Engineering:  ETL · Pipelines · Automation
 Domain Knowledge:  Healthcare Finance · Revenue Cycle · Pharmacy Operations · Regulatory Compliance
-```
 
 ---
